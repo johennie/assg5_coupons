@@ -131,19 +131,19 @@ their acceptance (Y==1) or not (Y==0) from the different passanger categories.
 
 Notice that passanger category = Alone is the top category among all the coupon types.
 
-![coupon_catplot.png](..%2F..%2Fcustomer_coupon_acceptance%2Fimages%2Fcoupon_catplot.png)
+![coupon_catplot.png](images%2Fcoupon_catplot.png)
 
 
 In addition, using a seaborn heatmap we can identify the different correlations. 
 
 Notice that coupon type, time, destination, age, and children have a high impact on coupon acceptance.
 
-![coupon_heatmap.png](..%2F..%2Fcustomer_coupon_acceptance%2Fimages%2Fcoupon_heatmap.png)
+![coupon_heatmap.png](images%2Fcoupon_heatmap.png)
 
 
 Finally, using seaborn line and bar plots we differentiate coupon types and their distribution.
 
-![coupon_count_percent_distribution.png](coupon_count_percent_distribution.png)
+![coupon_count_percent_distribution.png](images%2Fcoupon_count_percent_distribution.png)
 
 
 Both CoffeeHouse coupons and Bar coupons are accepted (Y==1) the most.
@@ -155,7 +155,7 @@ This seaborn count plot shows the distribution of accepted bar coupons by occupa
 We also look into coupons of type = Bar that are not Accepted (Y==0) by age and gender, and with and without children. 
 Notice that male students accept coupons of type Bar the most.
 
-![bar_coupon_y_1_occupation_gender.png](..%2F..%2Fcustomer_coupon_acceptance%2Fimages%2Fbar_coupon_y_1_occupation_gender.png)
+![bar_coupon_y_1_occupation_gender.png](images%2Fbar_coupon_y_1_occupation_gender.png)
 
 
 4.3. Coffee House Coupon Investigation - coupon type = CoffeeHouse
@@ -165,7 +165,7 @@ This seaborn count plot shows the distribution of accepted bar coupons by occupa
 We also look into coupons of type = CoffeeHouse that are not Accepted (Y==0) by age and gender, and with and without children.
 Notice that unemployed females accept coupons of type CoffeeHouse the most.
 
-![coffee_coupon_y_1_occupation_gender.png](..%2F..%2Fcustomer_coupon_acceptance%2Fimages%2Fcoffee_coupon_y_1_occupation_gender.png)
+![coffee_coupon_y_1_occupation_gender.png](images%2Fcoffee_coupon_y_1_occupation_gender.png)
 
 
 ### Findings

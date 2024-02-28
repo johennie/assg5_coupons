@@ -75,19 +75,33 @@ Tha data is found in the data/coupons.csv file which contains the following colu
    We noticed that at least 2 columns (age and income) have characters but could be numerical.
 
 2.3. when we described the data we noticed the top values for
+
     - destination = No Urgent Place
+
     - passanger = Alone
+    
     - coupon = Coffee House
+    
     - maritalStatus = Married partner
-.    - education = Some college - no degree
+    
+    - education = Some college - no degree
+    
     - occupation = Unemployed
+    
     - income = 25000− 37499
+    
     - car = Scooter and motorcycle
+    
     - Bar = never
+    
     - CoffeeHouse = less1	
+    
     - CarryAway = 1-3
+    
     - RestaurantLessThan20 = 1-3	
+    
     - Restaurant20To50 = less1
+
 
 
 ## 3. Data Preparation

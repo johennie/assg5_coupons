@@ -4,7 +4,7 @@
 
 
 The goal of this project is to identify customers who accepted a driving coupon versus those that did not.
-Python was used for analysis and findings which are in the notebooks/assg5_coupons.ipynb (https://github.com/johennie/assg5_coupons/blob/main/notebooks/assg5_coupons.ipynb)file. 
+Python was used for analysis and findings which are in the notebooks/assg5_coupons.ipynb ( https://github.com/johennie/assg5_coupons/blob/main/notebooks/assg5_coupons.ipynb ) file. 
 Additionally, matplotlib.pyplot, seaborn, pandas, and numpy libraries were used for computation and visualization.
 
 ## 1. Business Understanding

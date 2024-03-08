@@ -4,7 +4,7 @@
 
 
 The goal of this project is to identify customers who accepted a driving coupon versus those that did not.
-Python was used for analysis and findings which are in the notebooks/assg5_coupons.ipynb file. 
+Python was used for analysis and findings which are in the notebooks/assg5_coupons.ipynb (https://github.com/johennie/assg5_coupons/blob/main/notebooks/assg5_coupons.ipynb)file. 
 Additionally, matplotlib.pyplot, seaborn, pandas, and numpy libraries were used for computation and visualization.
 
 ## 1. Business Understanding
@@ -13,7 +13,7 @@ We need to analyze and identify the factors that determine whether a driver acce
 
 ## 2. Data Understanding
 During this phase we are to describe and explore the data to make sure it can be used for analysis and visualization in understanding if a coupon would be accepted or not.
-Tha data is found in the data/coupons.csv file which contains the following columns:
+Tha data is found in the data/coupons.csv (https://github.com/johennie/assg5_coupons/blob/main/data/coupons.csv) file which contains the following columns:
         
      #   Column                Non-Null Count  Dtype    Description
     ---  ------                --------------  -----    -----------
